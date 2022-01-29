@@ -1,0 +1,22 @@
+{
+  "name": "apishop",
+  "version": "1.0.0",
+  "description": "api-rest with varoius products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helkyar/Api-OnlineShop.git"
+  },
+  "keywords": [
+    "shop"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helkyar/Api-OnlineShop/issues"
+  },
+  "homepage": "https://github.com/helkyar/Api-OnlineShop#readme"
+}
