@@ -14,9 +14,13 @@
     "shop"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/helkyar/Api-OnlineShop/issues"
   },
-  "homepage": "https://github.com/helkyar/Api-OnlineShop#readme"
+  "homepage": "https://github.com/helkyar/Api-OnlineShop#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
 }
