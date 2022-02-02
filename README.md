@@ -9,6 +9,7 @@ npm install
 Run index.js file with node or nodemon
 ```
 node index.js
+npm run server
 ```
 
 # Known issues
