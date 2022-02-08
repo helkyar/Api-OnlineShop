@@ -10,7 +10,7 @@ app.listen(port, ()=>{
 
 // (*) Overwrite JSON with fs
     // const fs = require('fs');
-    // const updateProducts = () => {
+    // const updateProducts = (products) => {
     //     fs.writeFile("products.json", JSON.stringify(products), "utf-8", (error)=>{
     //         if (error) { return {"message" : error.message}}
     //     });
